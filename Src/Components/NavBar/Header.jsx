@@ -37,14 +37,14 @@ class Header extends Component {
           <Row>
             <Col xs="8">
               <Row>
-                <Col><i class="fas fa-dollar-sign"></i> Fixed Rate</Col>
-                <Col><i class="fas fa-wifi"></i> Free Wifi</Col>
-                <Col><i class="fas fa-tint"></i> Free Water</Col>
+                <Col sm="4" xs="12"><i class="fas fa-dollar-sign"></i> Fixed Rate</Col>
+                <Col sm="4" xs="12"><i class="fas fa-wifi"></i> Free Wifi</Col>
+                <Col sm="4" xs="12"><i class="fas fa-tint"></i> Free Water</Col>
               </Row>
               <Row>
-                <Col><i class="fas fa-charging-station"></i> Free Phone Charger</Col>
-                <Col><i class="fas fa-cookie"></i> Free Food, Meet & Greet</Col>
-                <Col><i class="fas fa-plane"></i> Flight Tracking</Col>
+                <Col sm="4" xs="12"><i class="fas fa-charging-station"></i> Free Phone Charger</Col>
+                <Col sm="4" xs="12"><i class="fas fa-cookie"></i> Free Food, Meet & Greet</Col>
+                <Col sm="4" xs="12"><i class="fas fa-plane"></i> Flight Tracking</Col>
               </Row>
             </Col>
             <Col xs="4" className="text-right">

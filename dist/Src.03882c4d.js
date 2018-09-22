@@ -31521,19 +31521,19 @@ var Header = function (_Component) {
                   null,
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-dollar-sign' }),
                     ' Fixed Rate'
                   ),
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-wifi' }),
                     ' Free Wifi'
                   ),
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-tint' }),
                     ' Free Water'
                   )
@@ -31543,19 +31543,19 @@ var Header = function (_Component) {
                   null,
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-charging-station' }),
                     ' Free Phone Charger'
                   ),
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-cookie' }),
                     ' Free Food, Meet & Greet'
                   ),
                   _react2.default.createElement(
                     _reactstrap.Col,
-                    null,
+                    { sm: '4', xs: '12' },
                     _react2.default.createElement('i', { 'class': 'fas fa-plane' }),
                     ' Flight Tracking'
                   )
@@ -31740,7 +31740,7 @@ var Slide = function (_Component) {
             null,
             _react2.default.createElement(
               _reactstrap.Col,
-              { xs: '8' },
+              { sm: '8', xs: '12' },
               _react2.default.createElement(
                 'h1',
                 { className: 'display-4 pb-5' },
@@ -31751,7 +31751,7 @@ var Slide = function (_Component) {
                 null,
                 _react2.default.createElement(
                   _reactstrap.Col,
-                  { xs: '7' },
+                  { sm: '7' },
                   _react2.default.createElement(
                     'p',
                     { className: 'lead pt-3 pb-3' },

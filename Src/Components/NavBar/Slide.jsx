@@ -22,10 +22,10 @@ class Slide extends Component {
       <Jumbotron fluid style={style.mainSlider}>
         <Container>
           <Row>
-            <Col xs="8">
+            <Col sm="8" xs="12">
               <h1 className="display-4 pb-5">Ridesharing For The People Of London</h1>
               <Row>
-              <Col xs="7">
+              <Col sm="7">
                 {/* <p className="text-left">
                   <i className="fas fa-ellipsis-h"></i> <i class="fas fa-car-side"></i> <i className="fas fa-ellipsis-h"></i>
                 </p> */}
